@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Vapaiden aikojen asettelu';
 $lang['available_hours_layout_hint'] = 'Määrittää, miten vapaat varausajat näytetään varaussivulla.';
 $lang['single_column'] = 'Yksi sarake';
 $lang['compact_grid'] = 'Tiivis ruudukko';
+$lang['sort_services_and_categories'] = 'Ota käyttöön palveluiden ja kategorioiden lajittelu';
+$lang['sort_services_and_categories_hint'] = 'Näytä ylläpidon lajittelusäätimet ja käytä mukautettua järjestystä varauksessa.';
+$lang['move_up'] = 'Siirrä ylös';
+$lang['move_down'] = 'Siirrä alas';
 
 // End

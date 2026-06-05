@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Оформление на наличните 
 $lang['available_hours_layout_hint'] = 'Контролира как се показват наличните часове за резервация на страницата за записване.';
 $lang['single_column'] = 'Една колона';
 $lang['compact_grid'] = 'Компактна мрежа';
+$lang['sort_services_and_categories'] = 'Активиране на сортиране на услуги и категории';
+$lang['sort_services_and_categories_hint'] = 'Показване на контроли за сортиране за администратора и използване на персонализиран ред при резервация.';
+$lang['move_up'] = 'Нагоре';
+$lang['move_down'] = 'Надолу';
 
 // End

@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Layout de Horários Disponíveis';
 $lang['available_hours_layout_hint'] = 'Controla como os horários de consulta disponíveis são exibidos na página de reserva.';
 $lang['single_column'] = 'Coluna Única';
 $lang['compact_grid'] = 'Grade Compacta';
+$lang['sort_services_and_categories'] = 'Ativar ordenação de serviços e categorias';
+$lang['sort_services_and_categories_hint'] = 'Mostrar controles de ordenação admin e usar a ordem personalizada na reserva.';
+$lang['move_up'] = 'Mover para cima';
+$lang['move_down'] = 'Mover para baixo';
 
 // End

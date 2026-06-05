@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'תצוגת שעות פנויות';
 $lang['available_hours_layout_hint'] = 'שולט כיצד שעות הפגישה הפנויות מוצגות בדף ההזמנה.';
 $lang['single_column'] = 'עמודה בודדת';
 $lang['compact_grid'] = 'רשת קומפקטית';
+$lang['sort_services_and_categories'] = 'הפעל מיון שירותים וקטגוריות';
+$lang['sort_services_and_categories_hint'] = 'הצג פקדי מיון מנהל והשתמש בסדר מותאם אישית בהזמנה.';
+$lang['move_up'] = 'העלה למעלה';
+$lang['move_down'] = 'הורד למטה';
 
 // End

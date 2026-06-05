@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Tilgængelige tider layout';
 $lang['available_hours_layout_hint'] = 'Styrer hvordan tilgængelige aftaletider vises på bookingsiden.';
 $lang['single_column'] = 'Enkelt kolonne';
 $lang['compact_grid'] = 'Kompakt gitter';
+$lang['sort_services_and_categories'] = 'Aktiver sortering af tjenester og kategorier';
+$lang['sort_services_and_categories_hint'] = 'Vis admin-sorteringskontroller og brug tilpasset rækkefølge ved booking.';
+$lang['move_up'] = 'Flyt op';
+$lang['move_down'] = 'Flyt ned';
 
 // End

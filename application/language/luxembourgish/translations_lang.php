@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Disponibel Stonnen Layout';
 $lang['available_hours_layout_hint'] = 'Kontrolléiert wéi disponibel Rendezvousstonnen op der Buchungssäit ugewise ginn.';
 $lang['single_column'] = 'Eenzel Kolonn';
 $lang['compact_grid'] = 'Kompakt Grid';
+$lang['sort_services_and_categories'] = 'Service a Kategorien Zortéierung aktivéieren';
+$lang['sort_services_and_categories_hint'] = 'Admin Zortéierungssteierung uweisen an déi personaliséiert Reiefolleg bei der Buchung benotzen.';
+$lang['move_up'] = 'No uewen';
+$lang['move_down'] = 'No ënnen';
 
 // End

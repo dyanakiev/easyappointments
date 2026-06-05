@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Tillgängliga tider layout';
 $lang['available_hours_layout_hint'] = 'Styr hur tillgängliga bokningstider visas på bokningssidan.';
 $lang['single_column'] = 'Enkel kolumn';
 $lang['compact_grid'] = 'Kompakt rutnät';
+$lang['sort_services_and_categories'] = 'Aktivera sortering av tjänster och kategorier';
+$lang['sort_services_and_categories_hint'] = 'Visa admin-sorteringskontroller och använd anpassad ordning vid bokning.';
+$lang['move_up'] = 'Flytta upp';
+$lang['move_down'] = 'Flytta ner';
 
 // End

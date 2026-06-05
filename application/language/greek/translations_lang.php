@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Διάταξη Διαθέσιμων Ωρών'
 $lang['available_hours_layout_hint'] = 'Ελέγχει τον τρόπο εμφάνισης των διαθέσιμων ωρών ραντεβού στη σελίδα κράτησης.';
 $lang['single_column'] = 'Μονή Στήλη';
 $lang['compact_grid'] = 'Συμπαγές Πλέγμα';
+$lang['sort_services_and_categories'] = 'Ενεργοποίηση ταξινόμησης υπηρεσιών και κατηγοριών';
+$lang['sort_services_and_categories_hint'] = 'Εμφάνιση στοιχείων ελέγχου ταξινόμησης διαχειριστή και χρήση προσαρμοσμένης σειράς στην κράτηση.';
+$lang['move_up'] = 'Μετακίνηση πάνω';
+$lang['move_down'] = 'Μετακίνηση κάτω';
 
 // End

@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Aspectul orelor disponibile';
 $lang['available_hours_layout_hint'] = 'Controlează modul în care orele de programare disponibile sunt afișate pe pagina de rezervare.';
 $lang['single_column'] = 'Coloană unică';
 $lang['compact_grid'] = 'Grilă compactă';
+$lang['sort_services_and_categories'] = 'Activați sortarea serviciilor și categoriilor';
+$lang['sort_services_and_categories_hint'] = 'Afișați comenzile de sortare admin și folosiți ordinea personalizată în rezervare.';
+$lang['move_up'] = 'Mută sus';
+$lang['move_down'] = 'Mută jos';
 
 // End

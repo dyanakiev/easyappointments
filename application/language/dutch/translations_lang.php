@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Indeling beschikbare uren';
 $lang['available_hours_layout_hint'] = 'Bepaalt hoe beschikbare afspraakuren worden weergegeven op de boekingspagina.';
 $lang['single_column'] = 'Enkele kolom';
 $lang['compact_grid'] = 'Compact raster';
+$lang['sort_services_and_categories'] = 'Sorteren van diensten en categorieën inschakelen';
+$lang['sort_services_and_categories_hint'] = 'Admin-sorteerbediening weergeven en aangepaste volgorde gebruiken bij boeken.';
+$lang['move_up'] = 'Omhoog';
+$lang['move_down'] = 'Omlaag';
 
 // End

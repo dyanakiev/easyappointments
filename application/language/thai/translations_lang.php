@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'เค้าโครงชั่วโมง
 $lang['available_hours_layout_hint'] = 'ควบคุมวิธีแสดงชั่วโมงการนัดหมายที่ว่างบนหน้าจอง';
 $lang['single_column'] = 'คอลัมน์เดียว';
 $lang['compact_grid'] = 'กริดขนาดกะทัดรัด';
+$lang['sort_services_and_categories'] = 'เปิดใช้งานการจัดเรียงบริการและหมวดหมู่';
+$lang['sort_services_and_categories_hint'] = 'แสดงตัวควบคุมการจัดเรียงสำหรับผู้ดูแลและใช้ลำดับที่กำหนดเองในการจอง';
+$lang['move_up'] = 'เลื่อนขึ้น';
+$lang['move_down'] = 'เลื่อนลง';
 
 // End

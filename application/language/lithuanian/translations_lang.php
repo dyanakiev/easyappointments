@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Laisvų valandų išdėstymas';
 $lang['available_hours_layout_hint'] = 'Valdo, kaip laisvos susitikimų valandos rodomos rezervavimo puslapyje.';
 $lang['single_column'] = 'Vienas stulpelis';
 $lang['compact_grid'] = 'Kompaktiškas tinklelis';
+$lang['sort_services_and_categories'] = 'Įjungti paslaugų ir kategorijų rūšiavimą';
+$lang['sort_services_and_categories_hint'] = 'Rodyti admin rūšiavimo valdiklius ir naudoti pasirinktinę tvarką rezervuojant.';
+$lang['move_up'] = 'Perkelti aukštyn';
+$lang['move_down'] = 'Perkelti žemyn';
 
 // End

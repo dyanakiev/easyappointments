@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Layout verfügbarer Zeiten';
 $lang['available_hours_layout_hint'] = 'Steuert, wie verfügbare Terminzeiten auf der Buchungsseite angezeigt werden.';
 $lang['single_column'] = 'Einzelne Spalte';
 $lang['compact_grid'] = 'Kompaktes Raster';
+$lang['sort_services_and_categories'] = 'Sortierung von Dienstleistungen und Kategorien aktivieren';
+$lang['sort_services_and_categories_hint'] = 'Admin-Sortiersteuerung anzeigen und benutzerdefinierte Reihenfolge bei der Buchung verwenden.';
+$lang['move_up'] = 'Nach oben';
+$lang['move_down'] = 'Nach unten';
 
 // End

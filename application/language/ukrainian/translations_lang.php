@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Макет доступних годин';
 $lang['available_hours_layout_hint'] = 'Керує відображенням доступних годин запису на сторінці бронювання.';
 $lang['single_column'] = 'Одна колонка';
 $lang['compact_grid'] = 'Компактна сітка';
+$lang['sort_services_and_categories'] = 'Увімкнути сортування послуг і категорій';
+$lang['sort_services_and_categories_hint'] = 'Показувати елементи керування сортуванням і використовувати користувацький порядок при бронюванні.';
+$lang['move_up'] = 'Вгору';
+$lang['move_down'] = 'Вниз';
 
 // End

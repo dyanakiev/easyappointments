@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'تخطيط الساعات المتاحة';
 $lang['available_hours_layout_hint'] = 'يتحكم في كيفية عرض ساعات المواعيد المتاحة في صفحة الحجز.';
 $lang['single_column'] = 'عمود واحد';
 $lang['compact_grid'] = 'شبكة مضغوطة';
+$lang['sort_services_and_categories'] = 'تفعيل ترتيب الخدمات والفئات';
+$lang['sort_services_and_categories_hint'] = 'إظهار عناصر التحكم في الترتيب للمسؤول واستخدام الترتيب المخصص في الحجز.';
+$lang['move_up'] = 'تحريك لأعلى';
+$lang['move_down'] = 'تحريك لأسفل';
 
 // End

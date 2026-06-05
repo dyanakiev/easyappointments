@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = '空き時間レイアウト';
 $lang['available_hours_layout_hint'] = '予約ページで利用可能な予約時間の表示方法を制御します。';
 $lang['single_column'] = 'シングルカラム';
 $lang['compact_grid'] = 'コンパクトグリッド';
+$lang['sort_services_and_categories'] = 'サービスとカテゴリの並べ替えを有効にする';
+$lang['sort_services_and_categories_hint'] = '管理画面の並べ替えコントロールを表示し、予約時にカスタム順序を使用します。';
+$lang['move_up'] = '上に移動';
+$lang['move_down'] = '下に移動';
 
 // End

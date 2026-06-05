@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Pieejamo stundu izkārtojums';
 $lang['available_hours_layout_hint'] = 'Kontrolē, kā pieejamās tikšanās stundas tiek parādītas rezervēšanas lapā.';
 $lang['single_column'] = 'Viena kolonna';
 $lang['compact_grid'] = 'Kompakts režģis';
+$lang['sort_services_and_categories'] = 'Aktivizēt pakalpojumu un kategoriju kārtošanu';
+$lang['sort_services_and_categories_hint'] = 'Parādīt admin kārtošanas vadīklas un izmantot pielāgoto secību rezervēšanā.';
+$lang['move_up'] = 'Pārvietot uz augšu';
+$lang['move_down'] = 'Pārvietot uz leju';
 
 // End

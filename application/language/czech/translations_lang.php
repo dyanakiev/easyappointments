@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Rozložení dostupných hodin';
 $lang['available_hours_layout_hint'] = 'Řídí způsob zobrazení dostupných hodin schůzek na stránce rezervace.';
 $lang['single_column'] = 'Jeden sloupec';
 $lang['compact_grid'] = 'Kompaktní mřížka';
+$lang['sort_services_and_categories'] = 'Povolit řazení služeb a kategorií';
+$lang['sort_services_and_categories_hint'] = 'Zobrazit ovládací prvky řazení pro admina a použít vlastní pořadí při rezervaci.';
+$lang['move_up'] = 'Posunout nahoru';
+$lang['move_down'] = 'Posunout dolů';
 
 // End

@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Müsait Saat Düzeni';
 $lang['available_hours_layout_hint'] = 'Müsait randevu saatlerinin rezervasyon sayfasında nasıl görüntüleneceğini kontrol eder.';
 $lang['single_column'] = 'Tek Sütun';
 $lang['compact_grid'] = 'Kompakt Izgara';
+$lang['sort_services_and_categories'] = 'Hizmet ve Kategori Sıralamasını Etkinleştir';
+$lang['sort_services_and_categories_hint'] = 'Yönetici sıralama kontrollerini göster ve rezervasyonda özel sırayı kullan.';
+$lang['move_up'] = 'Yukarı Taşı';
+$lang['move_down'] = 'Aşağı Taşı';
 
 // End

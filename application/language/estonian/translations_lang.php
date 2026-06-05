@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Saadaolevate tundide paigutus';
 $lang['available_hours_layout_hint'] = 'Juhib, kuidas saadaolevad broneeringuajad broneerimislehel kuvatakse.';
 $lang['single_column'] = 'Üks veerg';
 $lang['compact_grid'] = 'Kompaktne ruudustik';
+$lang['sort_services_and_categories'] = 'Luba teenuste ja kategooriate sortimine';
+$lang['sort_services_and_categories_hint'] = 'Kuva administraatori sortimise juhtelemendid ja kasuta broneerimisel kohandatud järjestust.';
+$lang['move_up'] = 'Liiguta üles';
+$lang['move_down'] = 'Liiguta alla';
 
 // End

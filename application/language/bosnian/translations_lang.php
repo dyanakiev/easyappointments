@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Prikaz dostupnih sati';
 $lang['available_hours_layout_hint'] = 'Kontroliše kako se prikazuju dostupni sati termina na stranici za rezervaciju.';
 $lang['single_column'] = 'Jedna kolona';
 $lang['compact_grid'] = 'Kompaktna mreža';
+$lang['sort_services_and_categories'] = 'Omogući sortiranje usluga i kategorija';
+$lang['sort_services_and_categories_hint'] = 'Prikaži kontrole sortiranja za admina i koristi prilagođeni redoslijed pri rezervaciji.';
+$lang['move_up'] = 'Pomjeri gore';
+$lang['move_down'] = 'Pomjeri dolje';
 
 // End

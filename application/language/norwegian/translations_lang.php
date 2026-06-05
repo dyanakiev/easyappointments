@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Tilgjengelige timer layout';
 $lang['available_hours_layout_hint'] = 'Styrer hvordan tilgjengelige avtaletider vises på bestillingssiden.';
 $lang['single_column'] = 'Enkelt kolonne';
 $lang['compact_grid'] = 'Kompakt rutenett';
+$lang['sort_services_and_categories'] = 'Aktiver sortering av tjenester og kategorier';
+$lang['sort_services_and_categories_hint'] = 'Vis admin-sorteringskontroller og bruk tilpasset rekkefølge ved bestilling.';
+$lang['move_up'] = 'Flytt opp';
+$lang['move_down'] = 'Flytt ned';
 
 // End

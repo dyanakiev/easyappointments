@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Disposició d\'hores disponibles';
 $lang['available_hours_layout_hint'] = 'Controla com es mostren les hores de cita disponibles a la pàgina de reserva.';
 $lang['single_column'] = 'Columna única';
 $lang['compact_grid'] = 'Graella compacta';
+$lang['sort_services_and_categories'] = 'Activar l\'ordenació de serveis i categories';
+$lang['sort_services_and_categories_hint'] = 'Mostrar els controls d\'ordenació admin i utilitzar l\'ordre personalitzat a la reserva.';
+$lang['move_up'] = 'Pujar';
+$lang['move_down'] = 'Baixar';
 
 // End

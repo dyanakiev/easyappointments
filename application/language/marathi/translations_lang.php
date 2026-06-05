@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'उपलब्ध तासांचा ल�
 $lang['available_hours_layout_hint'] = 'बुकिंग पेजवर उपलब्ध भेटीचे तास कसे प्रदर्शित केले जातात हे नियंत्रित करते.';
 $lang['single_column'] = 'एकल स्तंभ';
 $lang['compact_grid'] = 'कॉम्पॅक्ट ग्रिड';
+$lang['sort_services_and_categories'] = 'सेवा आणि श्रेणी क्रमवारी सक्षम करा';
+$lang['sort_services_and_categories_hint'] = 'व्यवस्थापक क्रमवारी नियंत्रणे दाखवा आणि बुकिंगमध्ये सानुकूल क्रम वापरा.';
+$lang['move_up'] = 'वर हलवा';
+$lang['move_down'] = 'खाली हलवा';
 
 // End

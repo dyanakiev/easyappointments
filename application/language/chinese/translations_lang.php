@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = '可用时段布局';
 $lang['available_hours_layout_hint'] = '控制预约页面上可用预约时段的显示方式。';
 $lang['single_column'] = '单列';
 $lang['compact_grid'] = '紧凑网格';
+$lang['sort_services_and_categories'] = '启用服务和分类排序';
+$lang['sort_services_and_categories_hint'] = '显示管理排序控件并在预订中使用自定义顺序。';
+$lang['move_up'] = '上移';
+$lang['move_down'] = '下移';
 
 // End

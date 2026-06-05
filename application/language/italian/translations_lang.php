@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Disposizione orari disponibili';
 $lang['available_hours_layout_hint'] = 'Controlla come vengono visualizzati gli orari degli appuntamenti disponibili nella pagina di prenotazione.';
 $lang['single_column'] = 'Colonna singola';
 $lang['compact_grid'] = 'Griglia compatta';
+$lang['sort_services_and_categories'] = 'Abilita ordinamento servizi e categorie';
+$lang['sort_services_and_categories_hint'] = 'Mostra i controlli di ordinamento admin e utilizza l\'ordine personalizzato nella prenotazione.';
+$lang['move_up'] = 'Sposta su';
+$lang['move_down'] = 'Sposta giù';
 
 // End

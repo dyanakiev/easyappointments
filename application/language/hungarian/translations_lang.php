@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Elérhető időpontok elrendezése';
 $lang['available_hours_layout_hint'] = 'Meghatározza, hogy az elérhető foglalási idők hogyan jelenjenek meg a foglalási oldalon.';
 $lang['single_column'] = 'Egyszerű oszlop';
 $lang['compact_grid'] = 'Kompakt rács';
+$lang['sort_services_and_categories'] = 'Szolgáltatások és kategóriák rendezésének engedélyezése';
+$lang['sort_services_and_categories_hint'] = 'Admin rendezési vezérlők megjelenítése és egyéni sorrend használata a foglalásnál.';
+$lang['move_up'] = 'Fel';
+$lang['move_down'] = 'Le';
 
 // End

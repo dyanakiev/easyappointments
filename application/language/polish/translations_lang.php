@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Układ dostępnych godzin';
 $lang['available_hours_layout_hint'] = 'Kontroluje sposób wyświetlania dostępnych godzin wizyt na stronie rezerwacji.';
 $lang['single_column'] = 'Pojedyncza kolumna';
 $lang['compact_grid'] = 'Kompaktowa siatka';
+$lang['sort_services_and_categories'] = 'Włącz sortowanie usług i kategorii';
+$lang['sort_services_and_categories_hint'] = 'Pokaż elementy sterowania sortowaniem i używaj niestandardowej kolejności przy rezerwacji.';
+$lang['move_up'] = 'Przesuń w górę';
+$lang['move_down'] = 'Przesuń w dół';
 
 // End

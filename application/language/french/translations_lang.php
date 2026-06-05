@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'Disposition des créneaux disponibles';
 $lang['available_hours_layout_hint'] = 'Contrôle la façon dont les créneaux de rendez-vous disponibles sont affichés sur la page de réservation.';
 $lang['single_column'] = 'Colonne unique';
 $lang['compact_grid'] = 'Grille compacte';
+$lang['sort_services_and_categories'] = 'Activer le tri des services et catégories';
+$lang['sort_services_and_categories_hint'] = 'Afficher les contrôles de tri admin et utiliser l\'ordre personnalisé dans la réservation.';
+$lang['move_up'] = 'Monter';
+$lang['move_down'] = 'Descendre';
 
 // End

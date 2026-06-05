@@ -581,5 +581,9 @@ $lang['available_hours_layout'] = 'چیدمان ساعات موجود';
 $lang['available_hours_layout_hint'] = 'نحوه نمایش ساعات قرار ملاقات موجود در صفحه رزرو را کنترل می‌کند.';
 $lang['single_column'] = 'تک ستون';
 $lang['compact_grid'] = 'شبکه فشرده';
+$lang['sort_services_and_categories'] = 'فعال‌سازی مرتب‌سازی خدمات و دسته‌بندی‌ها';
+$lang['sort_services_and_categories_hint'] = 'نمایش کنترل‌های مرتب‌سازی مدیر و استفاده از ترتیب سفارشی در رزرو.';
+$lang['move_up'] = 'انتقال به بالا';
+$lang['move_down'] = 'انتقال به پایین';
 
 // End
